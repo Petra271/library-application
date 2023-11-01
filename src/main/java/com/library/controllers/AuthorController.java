@@ -1,7 +1,6 @@
 package com.library.controllers;
 
 import com.library.domain.dtos.AuthorDto;
-import com.library.domain.entities.AuthorEntity;
 import com.library.services.AuthorService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

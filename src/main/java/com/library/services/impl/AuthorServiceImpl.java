@@ -5,7 +5,6 @@ import com.library.domain.entities.AuthorEntity;
 import com.library.mappers.Mapper;
 import com.library.repositories.AuthorRepository;
 import com.library.services.AuthorService;
-import jakarta.persistence.EntityNotFoundException;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
